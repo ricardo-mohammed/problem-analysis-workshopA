@@ -20,7 +20,7 @@ This project applies hypothesis testing to real-world RoboTaxi (Autonomous Vehic
 - **Grouping variable:** `Crash_Interaction_Type` — **Motor Vehicle** vs. **Fixed Object**
 - **Significance level:** α = 0.05
 
-All analysis lives in a single reusable `SpeedAnalysis` class, and every chart is built with **Plotly** for interactive, presentation-ready visuals.
+All analysis lives in a single reusable `SpeedAnalysis` class. Most charts use **Plotly** for interactive, presentation-ready visuals; the introductory histogram also uses Matplotlib and Seaborn.
 
 ---
 
@@ -107,7 +107,7 @@ Most vehicle-on-RoboTaxi crashes are low-energy, stationary incidents (e.g., bei
 2. Make sure `autonomous_vehicle_incidents_cleaned.csv` is in the same directory as the notebook.
 3. Install dependencies (first code cell):
    ```bash
-   pip install pandas numpy scipy plotly
+   pip install pandas numpy scipy plotly matplotlib seaborn
    ```
 4. Run all cells top to bottom.
 
@@ -145,6 +145,7 @@ analysis.results_table()
 - **pandas / NumPy** — data handling
 - **SciPy** — Shapiro-Wilk, F-distribution, t-tests, Q-Q plots
 - **Plotly** — interactive charts
+- **Matplotlib / Seaborn** — introductory histogram
 
 ---
 
