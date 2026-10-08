@@ -1,0 +1,1258 @@
+Make,Model Year,Automation System Engaged?,City,State,Roadway Type,Crash With,CP Pre-Crash Movement,SV Pre-Crash Movement,SV Precrash Speed (MPH),Within ODD?,Roadway_Conditions,Weather_Conditions,Crash_Interaction_Type
+JAGUAR,2021,ADS,San Francisco,CA,Intersection,Passenger Car,Entering Traffic,Proceeding Straight,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Street,SUV,Changing Lanes,Proceeding Straight,15,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Street,Passenger Car,Stopped,Proceeding Straight,4,Yes,Traffic Incident,Partly Cloudy,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Intersection,SUV,Traveling Wrong Way,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Intersection,SUV,Entering Traffic,Proceeding Straight,21,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Intersection,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Intersection,Pickup Truck,Proceeding Straight,Making Right Turn,2,Yes,Wet Surface,Cloudy,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Parking Lot,SUV,Making Left Turn,Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Parking Lot,SUV,Making Left Turn,Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Intersection,SUV,Proceeding Straight,Making Left Turn,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Parking Lot,Other Fixed Object,,Proceeding Straight,2,Yes,No Unusual Conditions,Partly Cloudy,Fixed Object
+ZEEKR,2025,ADS,Denver,CO,Street,SUV,Parked,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Parking Lot,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Heavy Truck,Proceeding Straight,Changing Lanes,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Van,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Animal,NM Crossing Roadway,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Making Left Turn,Proceeding Straight,21,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Entering Traffic,Proceeding Straight,19,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Pole / Tree,,Backing,1,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Other Fixed Object,,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Parking Lot,SUV,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Beverly Hills,CA,Street,SUV,Passing,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,SUV,Changing Lanes,Proceeding Straight,44,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,SUV,Changing Lanes,Changing Lanes,26,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Pickup Truck,Proceeding Straight,Changing Lanes,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Proceeding Straight,Changing Lanes,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Beverly Hills,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,33,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Parking Lot,Pickup Truck,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Changing Lanes,Entering Traffic,5,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Beverly Hills,CA,Street,Pickup Truck,Making Left Turn,Proceeding Straight,24,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Other Fixed Object,,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Backing,Proceeding Straight,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Parking Lot,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Bus,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Intersection,Pickup Truck,Entering Traffic,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Non-Motorist: Scooter - Skateboard,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Cloudy,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Parking Maneuver,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Intersection,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TESLA,2026,ADS,Dallas,TX,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Making Left Turn,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ISUZU,2025,ADS,Lowell,AR,Street,Heavy Truck,Lane / Road Departure,Proceeding Straight,23,Yes,No Unusual Conditions,Clear,Motor Vehicle
+INTERNATIONAL,2026,ADS,Aledo,TX,Intersection,Pickup Truck,Proceeding Straight,Proceeding Straight,27,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Palo Alto,CA,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Traveling Wrong Way,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,"Other, see Narrative",Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Street,SUV,Proceeding Straight,Parking Maneuver,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Entering Traffic,Proceeding Straight,14,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Changing Lanes,Proceeding Straight,32,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2024,ADS,Las Vegas,NV,Street,Passenger Car,Proceeding Straight,Changing Lanes,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Washington,DC,Street,SUV,Proceeding Straight,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Intersection,Non-Motorist: Cyclist,Proceeding Straight,Proceeding Straight,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,San Francisco,CA,Street,Non-Motorist: Pedestrian,"Other, see Narrative",Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Heavy Truck,Making Left Turn,Proceeding Straight,26,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Unknown,Passenger Car,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+TOYOTA,2017,ADS,Las Vegas,NV,Street,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,Wet Surface,Cloudy; Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Lane / Road Departure,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Heavy Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,SUV,Making Left Turn,Making Left Turn,1,Yes,Unknown,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Non-Motorist: Scooter - Skateboard,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Traveling Wrong Way,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Non-Motorist: Scooter - Skateboard,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Backing,Backing,3,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Entering Traffic,Proceeding Straight,27,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Culver City,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Changing Lanes,Proceeding Straight,17,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,Emeryville,CA,Highway / Freeway,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Las Vegas,NV,Intersection,Pickup Truck,Proceeding Straight,Stopped,0,Yes,Unknown,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,Passenger Car,Changing Lanes,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mesa,AZ,Street,SUV,Making Left Turn,Making Left Turn,19,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,SUV,"Other, see Narrative",Stopped,0,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Intersection,Passenger Car,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Bruno,CA,Street,Pickup Truck,Changing Lanes,Proceeding Straight,12,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Orlando,FL,Street,Van,Crossing into Opposing Lane,Stopped,2,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Street,Passenger Car,Parked,Proceeding Straight,10,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TOYOTA,2019,ADS,Miami,FL,Street,Pickup Truck,Making Right Turn,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Motorcycle,Passing,Proceeding Straight,4,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,SUV,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,Van,Backing,Proceeding Straight,1,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Intersection,Other Fixed Object,,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Fixed Object
+HYUNDAI,2026,ADS,Dallas,TX,Street,Passenger Car,Changing Lanes,Changing Lanes,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Proceeding Straight,Merging,0,Yes,Wet Surface,Cloudy; Rain,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Street,Passenger Car,Changing Lanes,Proceeding Straight,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Entering Traffic,Proceeding Straight,21,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Miami Beach,FL,Street,Passenger Car,Passing,Parked,0,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Bus,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Culver City,CA,Traffic Circle,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Redwood City,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,23,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Motorcycle,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Van,Changing Lanes,Proceeding Straight,32,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,Nashville,TN,Highway / Freeway,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Jose,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Animal,"Other, see Narrative",Proceeding Straight,28,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Atlanta,GA,Street,Heavy Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,SUV,Proceeding Straight,Making Right Turn,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Nashville,TN,Street,Van,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Making Right Turn,13,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Van,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,Austin,TX,Intersection,Pickup Truck,Proceeding Straight,Making Left Turn,7,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Chandler,AZ,Street,SUV,Crossing into Opposing Lane,Proceeding Straight,32,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Nashville,TN,Street,Van,Lane / Road Departure,Parked,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,Pickup Truck,Changing Lanes,Proceeding Straight,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Making Left Turn,Making Left Turn,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,"Other, see Narrative",Backing,5,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Parked,Passing,6,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Heavy Truck,Backing,Stopped,0,Yes,Work Zone,Cloudy,Motor Vehicle
+TESLA,2026,ADS,Dallas,TX,Parking Lot,Other Fixed Object,,Making Right Turn,5,Yes,Unknown,Partly Cloudy,Fixed Object
+TESLA,2026,ADS,Houston,TX,Street,Pole / Tree,,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Making Right Turn,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2024,ADS,Las Vegas,NV,Street,Passenger Car,Proceeding Straight,Changing Lanes,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Motorcycle,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Bus,Proceeding Straight,Making Right Turn,5,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Parking Lot,SUV,Backing,Backing,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,First Responder Vehicle,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Burlingame,CA,Street,Animal,Entering Traffic,Proceeding Straight,48,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+ZOOX,2026,ADS,Las Vegas,NV,Street,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Passenger Car,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Entering Traffic,Proceeding Straight,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Proceeding Straight,Changing Lanes,4,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Non-Motorist: Cyclist,Entering Traffic,Proceeding Straight,12,Yes,No Unusual Conditions,Cloudy,Non-Motorist / Other Road User
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Street,SUV,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Pickup Truck,Entering Traffic,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,"Other, see Narrative",Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Intersection,SUV,Proceeding Straight,Proceeding Straight,26,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Intersection,SUV,Proceeding Straight,Proceeding Straight,11,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Pickup Truck,Stopped,Lane / Road Departure,20,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Culver City,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Making Left Turn,Proceeding Straight,28,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Making Right Turn,Passing,1,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Entering Traffic,Proceeding Straight,8,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Menlo Park,CA,Street,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Entering Traffic,Proceeding Straight,29,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Proceeding Straight,Making Right Turn,2,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Bus,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,3,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,Pickup Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Las Vegas,NV,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Redwood City,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Houston,TX,Intersection,Passenger Car,Proceeding Straight,Making Left Turn,10,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Parking Lot,SUV,Entering Traffic,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Proceeding Straight,Changing Lanes,3,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Passenger Car,Backing,Proceeding Straight,2,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,SUV,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Van,Making Right Turn,Proceeding Straight,18,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Venice,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Nashville,TN,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Orlando,FL,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,South San Francisco,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,Wet Surface,Cloudy; Rain,Motor Vehicle
+HYUNDAI,2026,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Changing Lanes,11,Yes,Unknown,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Highway / Freeway,Passenger Car,Proceeding Straight,Stopped,0,Yes,Wet Surface,Cloudy; Rain,Motor Vehicle
+HYUNDAI,2026,ADS,Dallas,TX,Parking Lot,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Parking Lot,SUV,Parked,"Other, see Narrative",6,Yes,Wet Surface,Cloudy; Rain,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Intersection,Non-Motorist: Cyclist,Passing,Stopped,0,Yes,Wet Surface,Cloudy; Rain,Non-Motorist / Other Road User
+HYUNDAI,2025,ADS,Dallas,TX,Street,SUV,Changing Lanes,Stopped,1,Yes,Work Zone,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Changing Lanes,Proceeding Straight,23,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Entering Traffic,Proceeding Straight,18,Yes,Degraded Surface; Wet Surface,Cloudy; Rain,Motor Vehicle
+ZEEKR,2025,ADS,Gilbert,AZ,Traffic Circle,Other Fixed Object,,Making Left Turn,21,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Van,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,Missing/Degraded Marking,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Redwood City,CA,Intersection,SUV,Making Left Turn,Proceeding Straight,19,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Antonio,TX,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Beverly Hills,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Making Right Turn,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Backing,Proceeding Straight,21,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,Houston,TX,Intersection,Passenger Car,Entering Traffic,Proceeding Straight,6,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,SUV,Making Left Turn,Proceeding Straight,38,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2024,ADS,Atlanta,GA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Pickup Truck,Stopped,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Dallas,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,"Other, see Narrative",Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Houston,TX,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Traffic Circle,Other Fixed Object,,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Traveling Wrong Way,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mesa,AZ,Street,SUV,Making Right Turn,Proceeding Straight,18,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Houston,TX,Street,Pickup Truck,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Santa Clara,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Making Right Turn,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Miami,FL,Intersection,SUV,Proceeding Straight,Proceeding Straight,6,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Making Right Turn,Changing Lanes,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Changing Lanes,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Other Fixed Object,,Proceeding Straight,10,Yes,Degraded Surface,Clear,Fixed Object
+JAGUAR,2024,ADS,Mountain View,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Van,Passing,Parked,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Antonio,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Intersection,Pickup Truck,Making Left Turn,Proceeding Straight,8,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,South San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,8,Yes,Unknown,Cloudy,Motor Vehicle
+PETERBILT,2025,ADS,Edgewood,NM,Highway / Freeway,Heavy Truck,Proceeding Straight,Proceeding Straight,60,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Parked,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Crossing into Opposing Lane,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Other Fixed Object,,Proceeding Straight,17,Yes,Degraded Surface,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Proceeding Straight,Proceeding Straight,7,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Parked,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Parked,Passing,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Heavy Truck,Backing,Backing,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Making Left Turn,Making Left Turn,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Bus,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Heavy Truck,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Pickup Truck,Making Right Turn,Proceeding Straight,18,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Daly City,CA,Highway / Freeway,Passenger Car,Changing Lanes,Proceeding Straight,65,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Making Right Turn,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Other Fixed Object,,Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Miami,FL,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Mesa,AZ,Street,Pickup Truck,Passing,Stopped,0,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Motorcycle,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Pickup Truck,Making Left Turn,Proceeding Straight,27,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Intersection,Passenger Car,Making Left Turn,Making Left Turn,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,Wet Surface,Rain,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Entering Traffic,Proceeding Straight,29,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Passenger Car,Parked,Proceeding Straight,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Highway / Freeway,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Making Left Turn,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Philadelphia,PA,Street,SUV,Proceeding Straight,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Pickup Truck,Making Left Turn,Proceeding Straight,15,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Highway / Freeway,SUV,Passing,Proceeding Straight,35,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Lane / Road Departure,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Crossing into Opposing Lane,Proceeding Straight,1,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Making Left Turn,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2017,ADS,San Francisco,CA,Street,Passenger Car,Traveling Wrong Way,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,Passenger Car,Parking Maneuver,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Lane / Road Departure,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Orlando,FL,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+NISSAN,2024,ADS,San Jose,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,Passenger Car,Entering Traffic,Proceeding Straight,21,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2026,ADS,Austin,TX,Street,Animal,Stopped,Unknown,15,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Making Right Turn,Proceeding Straight,24,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,"Other, see Narrative",Proceeding Straight,1,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Intersection,Passenger Car,Changing Lanes,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+HYUNDAI,2026,ADS,Austin,TX,Street,Van,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Lane / Road Departure,Making Left Turn,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Backing,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Traveling Wrong Way,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Bus,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Washington,DC,Street,SUV,Proceeding Straight,Proceeding Straight,4,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TOYOTA,2023,ADS,Arlington,TX,Intersection,SUV,Making Right Turn,Making Right Turn,6,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Backing,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Houston,TX,Street,Pickup Truck,Proceeding Straight,Changing Lanes,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Stopped,Proceeding Straight,13,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Parked,Passing,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Proceeding Straight,Making Right Turn,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,SUV,Changing Lanes,Proceeding Straight,20,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Palo Alto,CA,Street,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Other Fixed Object,,Lane / Road Departure,20,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Bus,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Entering Traffic,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Entering Traffic,Passing,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Parking Lot,SUV,Backing,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Bus,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Making Left Turn,Making Left Turn,19,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Bus,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Redwood City,CA,Street,Passenger Car,Making Left Turn,Proceeding Straight,14,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Changing Lanes,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Non-Motorist: Cyclist,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,"Other, see Narrative",Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Las Vegas,NV,Street,Other Fixed Object,,Proceeding Straight,23,Yes,Unknown,Clear,Fixed Object
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Proceeding Straight,26,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Passenger Car,Entering Traffic,Making Left Turn,10,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Changing Lanes,11,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Venice,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Making Right Turn,Making Right Turn,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Changing Lanes,Proceeding Straight,32,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Van,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TOYOTA,2022,ADS,Santa Clara,CA,Street,Motorcycle,Passing,Proceeding Straight,19,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Making Right Turn,Proceeding Straight,15,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+TOYOTA,2019,ADS,Miami,FL,Street,Heavy Truck,Parked,Proceeding Straight,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Making Right Turn,Proceeding Straight,38,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,Los Angeles,CA,Street,SUV,Making Left Turn,Proceeding Straight,17,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Changing Lanes,Proceeding Straight,35,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Daly City,CA,Highway / Freeway,Passenger Car,Traveling Wrong Way,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Intersection,Pickup Truck,Entering Traffic,Making Left Turn,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,SUV,Entering Traffic,Proceeding Straight,35,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Heavy Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,SUV,Entering Traffic,Proceeding Straight,19,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Proceeding Straight,Stopped,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Changing Lanes,Proceeding Straight,40,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Houston,TX,Highway / Freeway,Heavy Truck,Proceeding Straight,Changing Lanes,2,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Daly City,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Van,Backing,Proceeding Straight,1,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Dallas,TX,Street,Passenger Car,Making Left Turn,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,First Responder Vehicle,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,SUV,Proceeding Straight,Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Making Left Turn,9,Yes,No Unusual Conditions,Clear,Fixed Object
+ZOOX,2026,ADS,San Francisco,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,First Responder Vehicle,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Entering Traffic,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Other Fixed Object,,Lane / Road Departure,18,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Backing,Proceeding Straight,33,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Van,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,SUV,Stopped,Passing,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Intersection,SUV,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Parking Lot,Pole / Tree,,Backing,1,Yes,No Unusual Conditions,Cloudy,Fixed Object
+TESLA,2026,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Backing,2,Yes,No Unusual Conditions,Clear,Fixed Object
+TESLA,2026,ADS,Austin,TX,Street,Heavy Truck,Parked,Proceeding Straight,4,Yes,Unknown,Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Bus,Making Right Turn,Stopped,0,Yes,Work Zone,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Other Fixed Object,,Proceeding Straight,17,Yes,Unknown,Clear,Fixed Object
+TESLA,2026,ADS,Austin,TX,Intersection,Animal,NM Crossing Roadway,Stopped,27,Yes,No Unusual Conditions,Partly Cloudy,Non-Motorist / Other Road User
+TESLA,2026,ADS,Austin,TX,Intersection,Passenger Car,Backing,Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Other Fixed Object,,"Other, see Narrative",8,Yes,No Unusual Conditions,Clear,Fixed Object
+TESLA,2026,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Making Left Turn,6,Yes,No Unusual Conditions,Partly Cloudy,Fixed Object
+TESLA,2026,ADS,Austin,TX,Street,Non-Motorist: Cyclist,NM Moving Alongside Roadway,Stopped,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+TESLA,2026,ADS,Austin,TX,Street,Other Fixed Object,,Lane / Road Departure,9,Yes,Work Zone,Clear,Fixed Object
+TESLA,2026,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Making Left Turn,6,Yes,No Unusual Conditions,Partly Cloudy,Fixed Object
+TESLA,2026,ADS,Austin,TX,Street,Other Fixed Object,,"Other, see Narrative",8,Yes,No Unusual Conditions,Clear,Fixed Object
+TESLA,2026,ADS,Austin,TX,Street,SUV,Proceeding Straight,Stopped,0,Yes,Work Zone,Partly Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Intersection,SUV,Making Right Turn,Making Right Turn,2,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Changing Lanes,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Dallas,TX,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Street,Passenger Car,Making Right Turn,Proceeding Straight,30,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Parking Maneuver,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Parking Lot,SUV,Backing,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Making Right Turn,Proceeding Straight,28,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,Passenger Car,Making Right Turn,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Las Vegas,NV,Intersection,SUV,Making Right Turn,Proceeding Straight,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Intersection,Non-Motorist: Cyclist,NM Crossing Roadway,Making Right Turn,1,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Proceeding Straight,Proceeding Straight,39,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Heavy Truck,Proceeding Straight,Changing Lanes,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,SUV,Making Left Turn,Proceeding Straight,27,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Pickup Truck,Proceeding Straight,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Intersection,Bus,Proceeding Straight,Making Right Turn,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,SUV,Proceeding Straight,Proceeding Straight,1,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Intersection,SUV,Making Right Turn,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Intersection,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Palo Alto,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Houston,TX,Street,SUV,Changing Lanes,Proceeding Straight,43,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADAS,Austin,TX,Street,Passenger Car,Changing Lanes,Proceeding Straight,32,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,SUV,Proceeding Straight,Making Left Turn,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Van,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,12,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Dallas,TX,Street,SUV,Proceeding Straight,Proceeding Straight,19,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Parking Lot,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Structure/Indoor,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Passing,Parked,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Orlando,FL,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,Other Fixed Object,,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Fixed Object
+ZEEKR,2025,ADS,Culver City,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Nashville,TN,Intersection,SUV,Proceeding Straight,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Lennox,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Crossing into Opposing Lane,Proceeding Straight,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Passenger Car,Changing Lanes,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Pickup Truck,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Parking Lot,Passenger Car,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Van,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2026,ADS,Austin,TX,Street,SUV,Entering Traffic,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+HYUNDAI,2024,ADS,Las Vegas,NV,Street,Passenger Car,Changing Lanes,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,Austin,TX,Street,Heavy Truck,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Las Vegas,NV,Street,Heavy Truck,Lane / Road Departure,Making Left Turn,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Backing,Proceeding Straight,12,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,SUV,Making Left Turn,Proceeding Straight,23,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Making Right Turn,Proceeding Straight,31,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Making Left Turn,Proceeding Straight,4,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,Van,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Antonio,TX,Intersection,Passenger Car,Making Left Turn,Proceeding Straight,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,SUV,Making Left Turn,Proceeding Straight,20,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Changing Lanes,Proceeding Straight,35,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,SUV,Entering Traffic,Backing,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,SUV,Passing,Proceeding Straight,5,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Changing Lanes,11,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,18,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,Santa Monica,CA,Street,SUV,Unknown,Changing Lanes,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,SUV,Changing Lanes,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,First Responder Vehicle,Passing,Stopped,0,Yes,Traffic Incident,Partly Cloudy,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Street,Passenger Car,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Cloudy; Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Proceeding Straight,Changing Lanes,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,SUV,Entering Traffic,Proceeding Straight,30,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,"Other, see Narrative",Making Left Turn,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,Passenger Car,NM Waiting to Cross Roadway,Backing,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Van,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Jose,CA,Street,Passenger Car,Making Right Turn,Proceeding Straight,20,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,SUV,Crossing into Opposing Lane,Making Left Turn,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Proceeding Straight,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2024,ADS,Las Vegas,NV,Intersection,Passenger Car,Crossing into Opposing Lane,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Street,SUV,Entering Traffic,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Philadelphia,PA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,Pickup Truck,Stopped,Proceeding Straight,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Changing Lanes,Making Left Turn,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Other Fixed Object,,Proceeding Straight,27,Yes,No Unusual Conditions,Clear,Fixed Object
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Proceeding Straight,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,Pickup Truck,Stopped,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Proceeding Straight,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+KARSAN,2025,ADS,Washington,DC,Street,Passenger Car,Merging,Proceeding Straight,13,Yes,Unknown,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Parking Lot,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Passing,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Backing,Backing,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Highway / Freeway,SUV,Changing Lanes,Proceeding Straight,9,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Crossing into Opposing Lane,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Jose,CA,Street,Heavy Truck,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Parking Maneuver,1,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pole / Tree,,Proceeding Straight,3,Yes,No Unusual Conditions,Rain,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Proceeding Straight,17,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Changing Lanes,Proceeding Straight,23,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Sunnyvale,CA,Street,SUV,Parked,Backing,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Making Left Turn,Proceeding Straight,15,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+ZEEKR,2025,ADS,Denver,CO,Street,Pickup Truck,Parked,Parking Maneuver,6,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Orlando,FL,Street,Pickup Truck,Stopped,"Other, see Narrative",1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Making Left Turn,10,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Venice,CA,Street,SUV,Backing,Stopped,0,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Parking Lot,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Making Right Turn,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Pickup Truck,Parked,Backing,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Intersection,Van,Making Left Turn,Making Left Turn,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Other Fixed Object,,Lane / Road Departure,9,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",Work Zone,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,SUV,Entering Traffic,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Making Right Turn,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Orlando,FL,Intersection,Passenger Car,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Entering Traffic,Proceeding Straight,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Highway / Freeway,Passenger Car,"Other, see Narrative",Changing Lanes,56,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Daly City,CA,Street,SUV,"Other, see Narrative",Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Beverly Hills,CA,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Sunnyvale,CA,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Making Left Turn,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Entering Traffic,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Houston,TX,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,Work Zone,Clear,Motor Vehicle
+TOYOTA,2022,ADS,Houston,TX,Intersection,SUV,Proceeding Straight,Proceeding Straight,4,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Proceeding Straight,3,Yes,No Unusual Conditions,Rain,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Passenger Car,Parked,"Other, see Narrative",12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Parked,"Other, see Narrative",1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Making Right Turn,3,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Passenger Car,Making Left Turn,Making Left Turn,22,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,Non-Motorist: Pedestrian,NM Crossing Roadway,Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+TOYOTA,2024,ADS,Atlanta,GA,Street,Other Fixed Object,,Lane / Road Departure,29,Yes,No Unusual Conditions,Cloudy,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Making Left Turn,Proceeding Straight,33,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Sunnyvale,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,Passenger Car,Parked,Proceeding Straight,15,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Beverly Hills,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Making Left Turn,Proceeding Straight,23,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Other Fixed Object,,Making Left Turn,9,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Stopped,Passing,6,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Crossing into Opposing Lane,Making Left Turn,6,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Parked,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Entering Traffic,Proceeding Straight,30,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Bus,Passing,Parked,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2021,ADS,Nashville,TN,Intersection,SUV,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Motorcycle,Making Left Turn,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Del Valle,TX,Highway / Freeway,Animal,"Other, see Narrative",Proceeding Straight,49,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Traveling Wrong Way,Lane / Road Departure,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Making Left Turn,Making Left Turn,14,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Van,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,Pickup Truck,Changing Lanes,Stopped,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Intersection,Passenger Car,Making Right Turn,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Van,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Pickup Truck,Changing Lanes,Proceeding Straight,35,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,South San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Non-Motorist: Scooter - Skateboard,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Heavy Truck,Making Right Turn,Making Right Turn,12,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Passenger Car,Changing Lanes,Changing Lanes,15,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Palo Alto,CA,Street,Bus,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Orlando,FL,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Highway / Freeway,SUV,Changing Lanes,Proceeding Straight,56,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Palo Alto,CA,Intersection,SUV,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Pickup Truck,Parking Maneuver,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Van,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Intersection,SUV,Making Left Turn,Making Left Turn,13,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Making Right Turn,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Chandler,AZ,Intersection,SUV,Making Left Turn,Making Left Turn,20,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Beverly Hills,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Pickup Truck,Making Right Turn,Making Right Turn,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Parking Lot,Heavy Truck,Backing,Backing,1,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Washington,DC,Street,SUV,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Motorcycle,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Motorcycle,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Palo Alto,CA,Street,Passenger Car,Parking Maneuver,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Other Fixed Object,,Proceeding Straight,17,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",Unknown,Clear,Fixed Object
+TESLA,2026,ADS,Austin,TX,Street,Bus,Making Right Turn,Stopped,0,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",Work Zone,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Backing,2,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Fixed Object
+TESLA,2026,ADS,Austin,TX,Parking Lot,Pole / Tree,,Backing,1,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Cloudy,Fixed Object
+TESLA,2026,ADS,Austin,TX,Street,Heavy Truck,Parked,Proceeding Straight,4,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",Unknown,Cloudy,Motor Vehicle
+TOYOTA,2024,ADS,Atlanta,GA,Street,SUV,Changing Lanes,Proceeding Straight,5,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TOYOTA,2024,ADS,Arlington,TX,Intersection,Passenger Car,Making Right Turn,Making Right Turn,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2023,ADS,Arlington,TX,Intersection,Passenger Car,Proceeding Straight,Making Right Turn,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2023,ADS,Austin,TX,Highway / Freeway,SUV,Merging,Merging,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2023,ADS,Austin,TX,Street,Heavy Truck,Changing Lanes,Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Heavy Truck,Proceeding Straight,Changing Lanes,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Passing,Proceeding Straight,24,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Other Fixed Object,,Proceeding Straight,17,Yes,No Unusual Conditions,Clear,Fixed Object
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Passing,Proceeding Straight,24,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2023,ADS,Austin,TX,Street,SUV,Passing,"Other, see Narrative",12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,Passenger Car,Changing Lanes,Changing Lanes,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Parked,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Van,Proceeding Straight,Changing Lanes,20,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Entering Traffic,Proceeding Straight,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,Passenger Car,Changing Lanes,Changing Lanes,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,Pickup Truck,Parked,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Other Fixed Object,,Proceeding Straight,10,Yes,Unknown,Clear,Fixed Object
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Venice,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Lane / Road Departure,Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Other Fixed Object,,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Intersection,SUV,Changing Lanes,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Passenger Car,Making Right Turn,Proceeding Straight,28,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,SUV,Passing,Stopped,0,Yes,Wet Surface,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,Pickup Truck,Passing,Stopped,0,Yes,Wet Surface,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,First Responder Vehicle,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Other Fixed Object,,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Brisbane,CA,Street,Heavy Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Van,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Other Fixed Object,,Proceeding Straight,18,Yes,No Unusual Conditions,Rain,Fixed Object
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Inglewood,CA,Intersection,SUV,Making Right Turn,Proceeding Straight,22,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Parking Maneuver,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Other Fixed Object,,Proceeding Straight,10,Yes,Degraded Surface,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2022,ADS,Austin,TX,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,20,Yes,Wet Surface,Rain,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Proceeding Straight,30,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2023,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Proceeding Straight,15,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,SUV,Passing,Making Right Turn,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,South San Francisco,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Changing Lanes,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Making Right Turn,Proceeding Straight,34,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Intersection,SUV,Making Right Turn,Making Right Turn,2,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Palo Alto,CA,Intersection,Non-Motorist: Cyclist,NM Crossing Roadway,Stopped,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Austin,TX,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Traveling Wrong Way,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,Miami,FL,Intersection,Motorcycle,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Entering Traffic,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Van,Entering Traffic,Proceeding Straight,23,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Animal,Stopped,Proceeding Straight,20,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2021,ADS,San Francisco,CA,Street,Passenger Car,Making Right Turn,Proceeding Straight,24,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,SUV,Proceeding Straight,Proceeding Straight,13,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Backing,Passing,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Pickup Truck,Making Left Turn,Making Left Turn,15,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Other Fixed Object,,Proceeding Straight,12,Yes,No Unusual Conditions,Partly Cloudy,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,20,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Stopped,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,Wet Surface; Work Zone,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Making Right Turn,Parked,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,SUV,Making Right Turn,Making Right Turn,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Venice,CA,Street,SUV,Passing,Making Right Turn,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Bus,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Intersection,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Marina del Rey,CA,Parking Lot,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,First Responder Vehicle,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Intersection,Passenger Car,Making Left Turn,Proceeding Straight,33,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Phoenix,AZ,Street,SUV,Changing Lanes,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Pickup Truck,Passing,Parked,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,SUV,Stopped,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,First Responder Vehicle,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2023,ADS,Atlanta,GA,Parking Lot,Other Fixed Object,,Proceeding Straight,5,Yes,Wet Surface,Cloudy; Rain,Fixed Object
+TOYOTA,2024,ADS,Atlanta,GA,Intersection,Passenger Car,Backing,Stopped,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2023,ADS,Grand Rapids,MN,Street,Other Fixed Object,,Parking Maneuver,25,Yes,No Unusual Conditions,Clear,Fixed Object
+HYUNDAI,2024,ADS,Pittsburgh,PA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,12,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Parking Lot,Other Fixed Object,,Backing,1,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Street,Bus,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2024,ADS,Peachtree Corners,GA,Intersection,Passenger Car,Making Right Turn,Proceeding Straight,13,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Washington,DC,Intersection,Other Fixed Object,,Making Right Turn,13,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Parking Maneuver,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Bus,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,23,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Making Left Turn,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,SUV,Backing,Passing,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Cloudy; Rain,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Non-Motorist: Pedestrian,"Other, see Narrative",Proceeding Straight,4,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Heavy Truck,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Stopped,Stopped,0,Yes,No Unusual Conditions,Rain,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy; Rain,Motor Vehicle
+HYUNDAI,2025,ADS,Austin,TX,Intersection,SUV,Proceeding Straight,Stopped,0,Exiting ODD,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Street,Van,Proceeding Straight,Stopped,0,Yes,Wet Surface,Rain,Motor Vehicle
+HYUNDAI,2025,ADS,Dallas,TX,Street,SUV,Making Left Turn,Proceeding Straight,30,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Tempe,AZ,Street,SUV,Stopped,Proceeding Straight,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Changing Lanes,Proceeding Straight,40,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Stopped,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Animal,"Other, see Narrative",Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Washington,DC,Street,SUV,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Passing,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Heavy Truck,Backing,Stopped,0,Yes,Wet Surface,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,SUV,Making Left Turn,Proceeding Straight,24,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Bus,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Entering Traffic,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Stopped,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Bus,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Intersection,Passenger Car,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,Las Vegas,NV,Street,Pickup Truck,Making Right Turn,Making Right Turn,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Making Left Turn,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+PETERBILT,2024,ADS,Aledo,TX,Street,Other Fixed Object,,Proceeding Straight,7,"No, see Narrative",Work Zone,Partly Cloudy,Fixed Object
+FORD,2024,ADS,Jacksonville,FL,Street,Passenger Car,Making U-Turn,Proceeding Straight,20,Yes,Work Zone,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Parking Maneuver,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Culver City,CA,Street,Pickup Truck,Backing,Proceeding Straight,10,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Stopped,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Changing Lanes,Proceeding Straight,21,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Making Left Turn,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Passenger Car,Traveling Wrong Way,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,South San Francisco,CA,Intersection,SUV,Making Left Turn,Proceeding Straight,14,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Pickup Truck,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Entering Traffic,Changing Lanes,25,Yes,No Unusual Conditions,Structure/Indoor,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Passenger Car,Backing,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Pickup Truck,Changing Lanes,Proceeding Straight,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,SUV,Making Left Turn,Proceeding Straight,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Motorcycle,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,SUV,Proceeding Straight,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,South San Francisco,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Passenger Car,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Making Right Turn,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Other Fixed Object,,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Non-Motorist: Cyclist,Proceeding Straight,Proceeding Straight,11,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Intersection,Passenger Car,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Pickup Truck,Making Right Turn,Making Right Turn,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Changing Lanes,1,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mountain View,CA,Street,Pickup Truck,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TOYOTA,2019,ADS,Las Vegas,NV,Street,SUV,Changing Lanes,Proceeding Straight,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Mateo,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,Unknown,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,Other Fixed Object,,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Burlingame,CA,Intersection,Pickup Truck,Backing,Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,Los Angeles,CA,Street,Passenger Car,Parked,Backing,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,South San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Tempe,AZ,Intersection,SUV,Changing Lanes,Proceeding Straight,36,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Changing Lanes,Proceeding Straight,28,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Redwood City,CA,Parking Lot,Other Fixed Object,,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Fixed Object
+TOYOTA,2017,ADS,Miami,FL,Intersection,Non-Motorist: Other,"Other, see Narrative",Making Right Turn,0,Yes,No Unusual Conditions,Cloudy,Non-Motorist / Other Road User
+ZOOX,2026,ADS,San Francisco,CA,Intersection,Heavy Truck,Making Left Turn,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,SUV,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Changing Lanes,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Animal,"Other, see Narrative",Proceeding Straight,26,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Changing Lanes,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Making Right Turn,Proceeding Straight,17,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Street,SUV,Making Left Turn,Proceeding Straight,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Intersection,Passenger Car,Making Left Turn,Making Left Turn,2,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Daly City,CA,Intersection,Passenger Car,Changing Lanes,Proceeding Straight,32,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,South San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Proceeding Straight,8,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,Pickup Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Animal,Entering Traffic,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Backing,Backing,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Parked,Proceeding Straight,9,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+HYUNDAI,2024,ADS,Las Vegas,NV,Intersection,Passenger Car,Changing Lanes,"Other, see Narrative",12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2024,ADS,Las Vegas,NV,Intersection,Van,Proceeding Straight,Making Left Turn,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,18,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,SUV,Making Left Turn,Proceeding Straight,31,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Pickup Truck,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,First Responder Vehicle,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Las Vegas,NV,Street,SUV,Lane / Road Departure,Proceeding Straight,30,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Las Vegas,NV,Street,Heavy Truck,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Parked,Passing,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Intersection,Animal,NM Crossing Roadway,Stopped,27,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Partly Cloudy,Non-Motorist / Other Road User
+ZOOX,2024,ADS,Las Vegas,NV,Street,SUV,Lane / Road Departure,Proceeding Straight,30,Yes,No Unusual Conditions,Clear,Motor Vehicle
+Ohmio,2024,ADS,Riverside,CA,Street,SUV,Backing,Proceeding Straight,15,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Non-Motorist: Cyclist,Entering Traffic,Proceeding Straight,19,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Pickup Truck,Proceeding Straight,Proceeding Straight,19,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Stopped,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Intersection,Pickup Truck,Backing,Proceeding Straight,17,Yes,No Unusual Conditions,Clear,Motor Vehicle
+PETERBILT,2025,ADS,Mount Pleasant,PA,Highway / Freeway,Heavy Truck,Merging,Proceeding Straight,28,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Crossing into Opposing Lane,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Parked,Entering Traffic,2,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Non-Motorist: Cyclist,NM Moving Alongside Roadway,Stopped,0,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Non-Motorist / Other Road User
+TESLA,2026,ADS,Austin,TX,Intersection,Passenger Car,Backing,Proceeding Straight,6,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Intersection,Passenger Car,Changing Lanes,Making Left Turn,29,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Proceeding Straight,21,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Changing Lanes,Proceeding Straight,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Crossing into Opposing Lane,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Motorcycle,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Las Vegas,NV,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Motorcycle,Proceeding Straight,Making Right Turn,8,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZEEKR,2025,ADS,San Francisco,CA,Parking Lot,Other Fixed Object,,Proceeding Straight,11,Yes,No Unusual Conditions,Clear,Fixed Object
+TOYOTA,2019,ADS,Santa Monica,CA,Street,SUV,Entering Traffic,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+FORD,2022,ADS,Jacksonville,FL,Street,Pole / Tree,,Lane / Road Departure,25,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+PETERBILT,2024,ADS,Strawn,TX,Highway / Freeway,Heavy Truck,Proceeding Straight,Merging,7,Yes,Traffic Incident,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Entering Traffic,8,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Paradise Valley,AZ,Street,Other Fixed Object,,Proceeding Straight,2,Yes,Work Zone,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Culver City,CA,Street,Pickup Truck,Parked,Parking Maneuver,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Pickup Truck,Proceeding Straight,Changing Lanes,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Intersection,Passenger Car,Passing,Stopped,0,Yes,Traffic Incident,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Other Fixed Object,,Passing,2,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2021,ADS,San Francisco,CA,Street,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Making Right Turn,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Passenger Car,Changing Lanes,Proceeding Straight,32,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Parking Lot,Passenger Car,Stopped,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mesa,AZ,Parking Lot,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Motorcycle,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Phoenix,AZ,Parking Lot,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Making Left Turn,6,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Partly Cloudy,Fixed Object
+TOYOTA,2022,ADS,Houston,TX,Intersection,Passenger Car,Proceeding Straight,Stopped,0,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Stopped,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Making Left Turn,Proceeding Straight,20,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2023,ADS,Eden Prairie,MN,Intersection,Pickup Truck,Proceeding Straight,Proceeding Straight,13,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2024,ADS,Peachtree Corners,GA,Intersection,Passenger Car,Making Right Turn,Proceeding Straight,13,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Motorcycle,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Proceeding Straight,Changing Lanes,8,Yes,Traffic Incident,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Heavy Truck,Crossing into Opposing Lane,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Passing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,SUV,Proceeding Straight,Making Left Turn,14,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Culver City,CA,Street,Pickup Truck,Parked,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Daly City,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Palo Alto,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2024,ADS,Spring Valley,NV,Street,Heavy Truck,Entering Traffic,Proceeding Straight,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,7,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Passenger Car,Proceeding Straight,Proceeding Straight,15,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Culver City,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Other Fixed Object,,Proceeding Straight,29,Yes,Wet Surface,Rain,Fixed Object
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Heavy Truck,Making Right Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Heavy Truck,Backing,Proceeding Straight,13,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Parking Lot,Other Fixed Object,,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Pickup Truck,Parked,Proceeding Straight,7,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TOYOTA,2022,ADS,Mountain View,CA,Intersection,Passenger Car,Proceeding Straight,Making Left Turn,3,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2017,ADS,Paradise ,NV,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Street,Animal,"Other, see Narrative",Proceeding Straight,13,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+ZOOX,2024,ADS,Winchester,NV,Intersection,Non-Motorist: Cyclist,"Other, see Narrative",Making Right Turn,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+TESLA,2026,ADS,Austin,TX,Street,SUV,Proceeding Straight,Stopped,0,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",Work Zone,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Non-Motorist: Scooter - Skateboard,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,Miami Beach,FL,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Heavy Truck,Parking Maneuver,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,Wet Surface,Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Mateo,CA,Intersection,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Parking Lot,Other Fixed Object,,Proceeding Straight,3,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2021,ADS,Tempe,AZ,Parking Lot,Other Fixed Object,,Proceeding Straight,7,Yes,Unknown,Clear,Fixed Object
+JAGUAR,2024,ADS,Scottsdale,AZ,Intersection,Passenger Car,Making Left Turn,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,Other Fixed Object,,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Crossing into Opposing Lane,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Beverly Hills,CA,Street,Passenger Car,Making Right Turn,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,SUV,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Passenger Car,Proceeding Straight,Making Right Turn,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,First Responder Vehicle,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,5,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Street,Bus,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Heavy Truck,Proceeding Straight,Stopped,0,Yes,Wet Surface,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Mesa,AZ,Street,Other Fixed Object,,Making U-Turn,4,Yes,Wet Surface,Rain,Fixed Object
+JAGUAR,2021,ADS,Houston,TX,Intersection,Other Fixed Object,,Proceeding Straight,12,Yes,No Unusual Conditions,Cloudy,Fixed Object
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Bus,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Van,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+ZOOX,2026,ADS,San Francisco,CA,Street,SUV,Backing,Proceeding Straight,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,West Hollywood,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Passenger Car,Passing,Proceeding Straight,24,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Bus,Stopped,Making Left Turn,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2024,ADS,Peachtree Corners,GA,Intersection,Passenger Car,Making Right Turn,Proceeding Straight,20,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2024,ADS,Atlanta ,GA,Street,Other Fixed Object,,Making Right Turn,18,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Street,Motorcycle,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Heavy Truck,Making Left Turn,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Traveling Wrong Way,Parked,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Street,Other Fixed Object,,"Other, see Narrative",8,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,Heavy Truck,Making Right Turn,Making Right Turn,3,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Parking Lot,SUV,Backing,Proceeding Straight,5,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Intersection,SUV,Making Right Turn,Making Right Turn,2,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Partly Cloudy,Motor Vehicle
+TESLA,2026,ADS,Austin,TX,Intersection,SUV,Making Right Turn,Making Right Turn,2,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Parked,0,Yes,Work Zone,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Traveling Wrong Way,Proceeding Straight,12,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2021,ADS,Santa Clara,CA,Street,SUV,Changing Lanes,Making Left Turn,25,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+TOYOTA,2019,ADS,Spring Valley,NV,Intersection,Passenger Car,Proceeding Straight,Making Left Turn,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Passenger Car,Changing Lanes,Proceeding Straight,23,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Scottsdale,AZ,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Passing,Parked,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Tempe,AZ,Street,Passenger Car,Proceeding Straight,Proceeding Straight,16,Yes,No Unusual Conditions,Clear,Motor Vehicle
+FORD,2024,ADS,Jacksonville,FL,Intersection,SUV,Entering Traffic,Proceeding Straight,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,,,Intersection,Passenger Car,Making Left Turn,Making Left Turn,11,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,Other Fixed Object,,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Austin,TX,Intersection,Heavy Truck,Making Right Turn,Proceeding Straight,5,Yes,No Unusual Conditions,Partly Cloudy,Motor Vehicle
+HYUNDAI,2024,ADS,Paradise,NV,Intersection,SUV,Proceeding Straight,"Other, see Narrative",0,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",Unknown,Clear,Motor Vehicle
+HYUNDAI,2024,ADS,Paradise,NV,Intersection,SUV,Proceeding Straight,"Other, see Narrative",0,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",Unknown,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Miami,FL,Street,Passenger Car,Proceeding Straight,Passing,4,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Guadalupe,AZ,Street,Passenger Car,Proceeding Straight,Proceeding Straight,15,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Van,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Backing,Proceeding Straight,8,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,21,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Atlanta,GA,Street,SUV,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Phoenix,AZ,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Scottsdale,AZ,Street,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Street,Pickup Truck,Entering Traffic,Proceeding Straight,9,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Street,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Parking Lot,Other Fixed Object,,Proceeding Straight,2,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Backing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Pickup Truck,"Other, see Narrative",Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,SUV,Making Right Turn,Proceeding Straight,22,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Santa Monica,CA,Street,Passenger Car,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Van,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+TOYOTA,2019,ADS,San Francisco,CA,Street,Passenger Car,Crossing into Opposing Lane,Proceeding Straight,9,Yes,No Unusual Conditions,Clear,Motor Vehicle
+FORD,2024,ADS,Jacksonville,FL,Intersection,Passenger Car,Entering Traffic,Proceeding Straight,20,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2024,ADS,,,Intersection,SUV,Proceeding Straight,"Other, see Narrative",0,"[REDACTED, MAY CONTAIN CONFIDENTIAL BUSINESS INFORMATION]",Unknown,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Bus,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,Bus,Passing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,San Francisco,CA,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Proceeding Straight,Proceeding Straight,1,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Inglewood,CA,Street,Heavy Truck,Parking Maneuver,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+HYUNDAI,2023,ADS,Austin,TX,Intersection,Passenger Car,Backing,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Street,Pickup Truck,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Pickup Truck,Making Left Turn,Making Left Turn,10,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,Los Angeles,CA,Intersection,SUV,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Austin,TX,Intersection,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,SUV,Making Left Turn,Proceeding Straight,8,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Mesa,AZ,Street,SUV,Parked,Proceeding Straight,6,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Bus,Proceeding Straight,Parked,0,Yes,No Unusual Conditions,Cloudy,Motor Vehicle
+JAGUAR,2024,ADS,San Francisco,CA,Street,Passenger Car,Changing Lanes,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2021,ADS,Phoenix,AZ,Parking Lot,Van,Lane / Road Departure,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Phoenix,AZ,Intersection,Passenger Car,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Chandler,AZ,Parking Lot,Other Fixed Object,,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Fixed Object
+JAGUAR,2024,ADS,San Francisco,CA,Intersection,Non-Motorist: Cyclist,Passing,Parked,0,Yes,No Unusual Conditions,Clear,Non-Motorist / Other Road User
+JAGUAR,2024,ADS,San Francisco,CA,Street,Heavy Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
+JAGUAR,2024,ADS,Chandler,AZ,Parking Lot,Other Fixed Object,,Proceeding Straight,10,Yes,No Unusual Conditions,Clear,Fixed Object
+TOYOTA,2019,ADS,Paradise,NV,Street,Pickup Truck,Proceeding Straight,Stopped,0,Yes,No Unusual Conditions,Clear,Motor Vehicle
